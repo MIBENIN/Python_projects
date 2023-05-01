@@ -59,7 +59,6 @@
 56. Create a dictionary of names and ages and print it
 57. Create a dictionary of words and their meanings and print it
 58. Create a dictionary of products and their prices and print it
-59. Create a dictionary of phone numbers and print it
 60. Create a set of numbers and print it
 61. Create a set of strings and print it
 62. Create a set of tuples and print it
