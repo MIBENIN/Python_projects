@@ -1,0 +1,121 @@
+
+100 simple Python programs that a beginner can practice with:
+
+1. Print "Hello, World!" to the console
+2. Print your name to the console
+3. Add two numbers and print the result
+4. Subtract two numbers and print the result
+5. Multiply two numbers and print the result
+6. Divide two numbers and print the result
+7. Print the remainder of dividing two numbers
+8. Convert Fahrenheit to Celsius
+9. Convert Celsius to Fahrenheit
+10. Calculate the area of a square
+11. Calculate the area of a rectangle
+12. Calculate the area of a triangle
+13. Calculate the area of a circle
+14. Calculate the circumference of a circle
+15. Convert kilometers to miles
+16. Convert miles to kilometers
+17. Print the first 10 even numbers
+18. Print the first 10 odd numbers
+19. Print all numbers between 1 and 100
+20. Print all even numbers between 1 and 100
+21. Print all odd numbers between 1 and 100
+22. Print the multiplication table for a number
+23. Print the sum of all numbers between 1 and 100
+24. Print the sum of all even numbers between 1 and 100
+25. Print the sum of all odd numbers between 1 and 100
+26. Find the maximum of two numbers
+27. Find the minimum of two numbers
+28. Find the sum of two numbers and return True if it is greater than 10, otherwise return False
+29. Print the largest of three numbers
+30. Print the smallest of three numbers
+31. Print "Fizz" if a number is divisible by 3, "Buzz" if it is divisible by 5, and "FizzBuzz" if it is divisible by both 3 and 5
+32. Reverse a string
+33. Print the first 10 Fibonacci numbers
+34. Print the factorial of a number
+35. Check if a number is prime or not
+36. Check if a string is a palindrome
+37. Count the number of vowels in a string
+38. Count the number of words in a string
+39. Sort a list of numbers in ascending order
+40. Sort a list of numbers in descending order
+41. Sort a list of strings in alphabetical order
+42. Merge two sorted lists into a single sorted list
+43. Remove duplicate elements from a list
+44. Calculate the sum of all elements in a list
+45. Calculate the average of all elements in a list
+46. Calculate the median of all elements in a list
+47. Calculate the mode of all elements in a list
+48. Calculate the standard deviation of all elements in a list
+49. Calculate the variance of all elements in a list
+50. Check if a list is sorted or not
+51. Check if an element is present in a list or not
+52. Find the index of an element in a list
+53. Remove an element from a list
+54. Insert an element into a list at a specific position
+55. Replace an element in a list with another element
+56. Create a dictionary of names and ages and print it
+57. Create a dictionary of words and their meanings and print it
+58. Create a dictionary of products and their prices and print it
+59. Create a dictionary of phone numbers and print it
+60. Create a set of numbers and print it
+61. Create a set of strings and print it
+62. Create a set of tuples and print it
+63. Create a set of dictionaries and print it
+64. Find the intersection of two sets
+65. Find the union of two sets
+66. Find the difference of two sets
+
+50 Python practice problems for someone who has studied Python basics:
+
+1. Write a program to print the sum of two numbers.
+2. Write a program to print the product of two numbers.
+3. Write a program to find the largest of three numbers.
+4. Write a program to find the smallest of three numbers.
+5. Write a program to check if a number is even or odd.
+6. Write a program to check if a number is positive, negative, or zero.
+7. Write a program to print the first n numbers of the Fibonacci sequence.
+8. Write a program to find the factorial of a number.
+9. Write a program to print the sum of all the numbers from 1 to n.
+10. Write a program to print the multiplication table of a given number.
+11. Write a program to print the reverse of a given string.
+12. Write a program to check if a given string is a palindrome.
+13. Write a program to find the length of a given string.
+14. Write a program to print the ASCII value of a given character.
+15. Write a program to find the square root of a given number.
+16. Write a program to find the cube root of a given number.
+17. Write a program to check if a given number is a prime number.
+18. Write a program to print all the prime numbers between 1 and n.
+19. Write a program to find the GCD (Greatest Common Divisor) of two given numbers.
+20. Write a program to find the LCM (Least Common Multiple) of two given numbers.
+21. Write a program to convert a given decimal number to binary.
+22. Write a program to convert a given binary number to decimal.
+23. Write a program to convert a given decimal number to octal.
+24. Write a program to convert a given octal number to decimal.
+25. Write a program to convert a given decimal number to hexadecimal.
+26. Write a program to convert a given hexadecimal number to decimal.
+27. Write a program to check if a given year is a leap year or not.
+28. Write a program to find the roots of a quadratic equation.
+29. Write a program to find the area of a circle.
+30. Write a program to find the circumference of a circle.
+31. Write a program to find the area of a rectangle.
+32. Write a program to find the perimeter of a rectangle.
+33. Write a program to find the area of a triangle.
+34. Write a program to find the perimeter of a triangle.
+35. Write a program to find the area of a trapezium.
+36. Write a program to find the perimeter of a trapezium.
+37. Write a program to find the volume of a cube.
+38. Write a program to find the surface area of a cube.
+39. Write a program to find the volume of a sphere.
+40. Write a program to find the surface area of a sphere.
+41. Write a program to find the volume of a cylinder.
+42. Write a program to find the surface area of a cylinder.
+43. Write a program to find the volume of a cone.
+44. Write a program to find the surface area of a cone.
+45. Write a program to find the sum of all the even numbers between 1 and n.
+46. Write a program to find the sum of all the odd numbers between 1 and n.
+47. Write a program to find the sum of all the numbers divisible by 3 and 5 between 1 and n.
+48. Write a program to find the sum of all the squares between 1 and n.
+49. Write a program to find the sum of all the cubes between 1 and n
